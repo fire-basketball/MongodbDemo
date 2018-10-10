@@ -7,7 +7,6 @@ import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 
 import java.util.List;
-ori
 public class CyclistDao {
 
     @Autowired
