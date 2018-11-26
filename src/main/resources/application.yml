@@ -6,4 +6,4 @@ server:
 spring:
   data:
     mongodb:
-      uri:  mongodb://47.100.176.47:27017/lighDB
+      uri:  mongodb://localhost:27017/lighDB
